@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SeanTan7150
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Computer Science in Asia Pacific University
+- 📫 Email address: xiuhawtan@gmail.com
