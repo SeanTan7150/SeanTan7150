@@ -3,3 +3,6 @@
   url = https://github.com/SeanTan7150/hardhat-web3-project.git
   branch = main
     update = merge
+[submodule "hardhat-web3-project"]
+	path = hardhat-web3-project
+	url = https://github.com/SeanTan7150/hardhat-web3-project.git
