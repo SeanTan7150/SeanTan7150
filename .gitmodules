@@ -1,3 +1,6 @@
 [submodule "hardhat-web3-project"]
 	path = hardhat-web3-project
 	url = https://github.com/SeanTan7150/hardhat-web3-project.git
+[submodule "flask-react-integration"]
+	path = flask-react-integration
+	url = https://github.com/SeanTan7150/flask-react-integration.git
